@@ -1,2 +1,3 @@
 # TYPDETAILS
 NAME        ROLLNO
+BARKHA      592
